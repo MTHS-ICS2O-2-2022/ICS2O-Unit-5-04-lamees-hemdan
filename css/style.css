@@ -1,12 +1,7 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
 /* Created by: Lamees Hemdan
-* Created on:April 2023
+* Created on:May 2023
 * This file contains the CSS for index.html
 */
-
 
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
@@ -15,13 +10,11 @@
   opacity: 0.001;
 }
 
-
 .mdl-layout__header-row {
   justify-content: center;
   padding: 0;
   color: beige;
 }
-
 
 .mdl-layout__content {
   padding-left: 30pt;
@@ -30,11 +23,9 @@
   color: violet;
 }
 
-
 .mdl-textfield__input {
   color: black;
 }
-
 
 .page-content {
   color: black;
@@ -42,11 +33,9 @@
   font-size: 3rem;
 }
 
-
 body {
   background-color: palegoldenrod;
 }
-
 
 img {
   width: 30%;
